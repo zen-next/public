@@ -3,22 +3,22 @@ entries:
   aws:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-29T20:11:53.377594+05:30"
+    created: "2025-01-03T18:38:47.167746+05:30"
     description: A Helm chart for Kubernetes
     digest: 7246195da2e63ab205717ae82f623ac67fd2e4e8bbedee6a99203c62121bb46e
     name: aws
     type: application
     urls:
-    - https://github.com/zen-next/public/aws-0.1.0.tgz
+    - https://zen-next.github.io/public/aws-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-29T20:11:53.37988+05:30"
+    created: "2025-01-03T18:38:47.170009+05:30"
     description: A Helm chart for Kubernetes
     digest: 0e060315f1b1abc2f347435ddef6ef4974b8587889558e916cbbccd9bc2787d6
     name: aws
     type: application
     urls:
-    - https://github.com/zen-next/public/aws/aws-0.1.0.tgz
+    - https://zen-next.github.io/public/aws/aws-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-29T20:11:53.376424+05:30"
+generated: "2025-01-03T18:38:47.166617+05:30"
