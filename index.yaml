@@ -3,10 +3,10 @@ entries:
   aqfer-k8s-client-chart:
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-09-21T10:41:32.005105+05:30"
+    created: "2025-09-21T11:33:25.307146+05:30"
     description: Aqfer Helm chart for deploying Kubernetes client resources across
       AWS and GCP
-    digest: 60d39e9ed20a825a3a3dd9bf38af1840abab574029785ca1cb56eef1514ebe2e
+    digest: e0ed0226c3c4f3b546cd4ab29af64bd298b7a7769344fbee09aefb7374283766
     keywords:
     - kubernetes
     - aws
@@ -17,8 +17,6 @@ entries:
     maintainers:
     - name: Aqfer Infrastructure Team
     name: aqfer-k8s-client-chart
-    sources:
-    - https://github.com/aqfer/infrastructure
     type: application
     urls:
     - https://zen-next.github.io/public/aqfer-k8s-client-chart-1.3.0.tgz
@@ -26,7 +24,7 @@ entries:
   aws:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-09-21T10:41:32.005744+05:30"
+    created: "2025-09-21T11:33:25.308925+05:30"
     description: A Helm chart for Kubernetes
     digest: 7246195da2e63ab205717ae82f623ac67fd2e4e8bbedee6a99203c62121bb46e
     name: aws
@@ -34,4 +32,4 @@ entries:
     urls:
     - https://zen-next.github.io/public/aws-0.1.0.tgz
     version: 0.1.0
-generated: "2025-09-21T10:41:32.004479+05:30"
+generated: "2025-09-21T11:33:25.306349+05:30"
